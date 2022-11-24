@@ -61,9 +61,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/android-chrome-512x512.png" className="logo react" alt="React logo" />
-        </a>
+        <img src="/android-chrome-512x512.png" className="logo" alt="App logo" />
       </div>
 
       <h1>Ynov - WebMobile - Simon</h1>
